@@ -2,7 +2,7 @@
     "name": "jokes",
     "version": "0.0.1",
    "manifest_version": 2,
-   "browser_actions": {
+   "browser_action": {
    "default_popup": "popup.html",
    "default_icon": "logo.png"
    },
